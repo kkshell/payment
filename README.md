@@ -45,14 +45,14 @@
 * 通过composer(推荐)
 
 	```
-	composer require "jialeo/payment"
+	composer require "kkshell/payment"
 	```
     
 * composer.json
 
 	```
 	"require": {
-        "jialeo/payment": "0.*"
+        "kkshell/payment": "0.*"
     }
 	```
     
